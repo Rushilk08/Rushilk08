@@ -15,7 +15,15 @@
 
 ###
 
-<p data-importer="text" align="left">Aspiring Developer | Passionate about technology and software development. Always learning, building projects, and exploring new technologies. 🚀<br><br>📫 Feel free to explore my repositories and connect with me.</p>
+<p data-importer="text" align="left">
+ 🎓 Computer Science & Design Engineering Student | 💻 Aspiring Software Developer | 🚀 Exploring AI, Web Development & Problem Solving
+ 
+Passionate about technology, creativity, and building solutions that solve real-world problems. Currently learning, experimenting with new technologies, and working on projects that turn ideas into reality.
+Always curious, always learning, and excited to collaborate and grow as a developer!
+ 
+ 🚀 My Goal: To build meaningful projects, continuously improve my skills, and grow into a well-rounded software engineer.
+I believe every great developer starts somewhere, and I'm here to learn, build, experiment, and grow — one project and one commit at a time.
+<br><br>📫 Feel free to explore my repositories and connect with me.</p>
 
 ###
 
